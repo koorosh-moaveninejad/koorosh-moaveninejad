@@ -1,4 +1,5 @@
- Hi there 👋
+
+ ### Hi there 👋
 
 
 - 🔭 I’m currently working on Signal Analytics and developing my programming skills
@@ -7,7 +8,6 @@
 - ⚡ Fun fact: Heh...
 
 
-### Current Streak
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=koorosh-moaveninejad&theme=dark)
 
